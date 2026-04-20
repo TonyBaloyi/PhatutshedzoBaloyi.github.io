@@ -5,7 +5,7 @@
 **Username:** TonyBaloyi  
 **GitHub Profile:** [github.com/TonyBaloyi](https://github.com/TonyBaloyi)
 
-# Phatutshedzo Tony Baloyi  
+# Phatutshedzo Tony Baloyi CV  
 Application / Web Designer  
 
  24 Snapper Street, Summerville, Cape Town, 7580  
@@ -94,22 +94,20 @@ Relationship:Manager
 ## Reflection: Coding My CV in Markdown
 
 **Situation:**
-As part of my Project Presentation 3 assessment at Cape Peninsula University of 
-Technology, I was required to build a digital portfolio on GitHub. One of the 
-requirements was to recreate my CV using Markdown language instead of a traditional 
-word processor like Microsoft Word.
+As part of expanding collaboration and exposure I was tasked for my Project Presentation 3 
+assessment to build a digital portfolio on GitHub. We were required to create a CV using an unfamiliar 
+language which is Markdown language instead of a traditional word processor like Microsoft Word.
 
 **Task:**
-I needed to take my existing CV and structure it entirely in Markdown, covering all 
-sections including my personal details, summary, education, work experience, skills, 
-projects, and career goals — all formatted clearly using Markdown syntax.
+I needed to take my existing CV and restructure it all in Markdown capturing still all 
+important personal details, summaries, education, work experience, skills, projects 
+and career goals.
 
 **Action:**
-I studied GitHub Flavoured Markdown (GFM) syntax and learned how to use `#` for 
+With all the languages I have encountered in my IT journey, Markdown has to be by far 
+the easiest language to learn. Concepts like using `#` for 
 headings, `**text**` for bold, `-` for bullet points, and `---` for section 
-dividers. I worked through my CV section by section, converting each part into 
-Markdown and previewing the result on GitHub to check that the formatting displayed 
-correctly.
+dividers were very easy to grasp.
 
 **Result:**
 The result was a clean, well-structured CV published directly on GitHub. I gained 
@@ -119,8 +117,7 @@ documentation, README files, and contributing to open-source repositories.
 
 
 
-
-## 🎥 Mock Interview Video
+##  Mock Interview Video
 
 <video width="600" controls>
   <source src="v14044g50000d6njsivog65m7c6i3j90.mp4" type="video/mp4">
@@ -130,19 +127,21 @@ documentation, README files, and contributing to open-source repositories.
 ## Reflection: Mock Interview Video Experience
 
 **Situation:**
-As part of the work readiness training included in my Project Presentation 3 
-assessment, I was required to record a mock interview video. The purpose was to 
-practise presenting myself professionally, as I would in a real job interview for 
-an ICT or Application Development role.
+As part of the real-world workplace prep we were also tasked to take a mock interview
+video for the lecturer to reflect on our readiness. The main purpose was to practise and reflect 
+upon my presentation in a mock job interview for an Application Development role.
 
 **Task:**
 I needed to prepare for a mock interview by anticipating common interview questions, 
 structure my answers clearly, record the video, and then embed it into my digital 
 portfolio on GitHub using Markdown or HTML.
+We were given some common interview questions to practise with in terms of 
+structuring our answers correctly. After the successful completion of the interview 
+we had to embed it to the digital portfolio using Markdown or HTML.
 
 **Action:**
-I prepared by researching common interview questions for ICT graduates, such as 
-questions about my skills, experience, strengths, and career goals. I practised my 
+In addition to practising with the given questions I had my own research of more popular 
+interview questions as well as ways to structure your answers in an interview. I practised my 
 answers out loud beforehand, chose a quiet and tidy space to record, and filmed the 
 interview using my phone. Once recorded, I uploaded the video and embedded it into 
 my README.md file so it could be viewed as part of my portfolio.
@@ -155,7 +154,6 @@ and made me more aware of how I present myself — preparation and communication
 skills I will carry into real job applications as I complete my diploma at CPUT.
 
 
-
 ## Reflection: Publishing on GitHub Pages
 
 **Situation:**
@@ -165,7 +163,7 @@ website using GitHub Pages, and submit the link on Blackboard.
 
 **Task:**
 I needed to enable GitHub Pages on my repository so that my README.md file would 
-be rendered as a real webpage, accessible to anyone with the link — including my 
+be rendered as a real webpage, accessible to anyone with the link including my 
 lecturer and moderators.
 
 **Action:**
@@ -183,4 +181,3 @@ the deployment process. This experience taught me that GitHub is not just a code
 storage tool but a platform capable of hosting and showcasing professional work — 
 a valuable insight as I prepare to enter the ICT industry as an Application/Web 
 Designer.
-
